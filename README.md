@@ -1,2 +1,6 @@
 # Optimisation-des-Performances-Travers-la-Vectorisation
-Optimisation des Performances d'un programme C, à Travers la Vectorisation
+
+=>
+
+1-Utilisation des outils d’analyse de performance
+2-Vectorisation
